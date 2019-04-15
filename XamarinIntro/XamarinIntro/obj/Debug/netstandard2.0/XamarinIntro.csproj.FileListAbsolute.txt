@@ -1,0 +1,12 @@
+E:\Pelatihan\HariKe-17\XamarinIntro\XamarinIntro\XamarinIntro\bin\Debug\netstandard2.0\XamarinIntro.deps.json
+E:\Pelatihan\HariKe-17\XamarinIntro\XamarinIntro\XamarinIntro\bin\Debug\netstandard2.0\XamarinIntro.dll
+E:\Pelatihan\HariKe-17\XamarinIntro\XamarinIntro\XamarinIntro\bin\Debug\netstandard2.0\XamarinIntro.pdb
+E:\Pelatihan\HariKe-17\XamarinIntro\XamarinIntro\XamarinIntro\obj\Debug\netstandard2.0\XamarinIntro.csprojAssemblyReference.cache
+E:\Pelatihan\HariKe-17\XamarinIntro\XamarinIntro\XamarinIntro\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Pelatihan\HariKe-17\XamarinIntro\XamarinIntro\XamarinIntro\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Pelatihan\HariKe-17\XamarinIntro\XamarinIntro\XamarinIntro\obj\Debug\netstandard2.0\XamarinIntro.csproj.CoreCompileInputs.cache
+E:\Pelatihan\HariKe-17\XamarinIntro\XamarinIntro\XamarinIntro\obj\Debug\netstandard2.0\XamarinIntro.AssemblyInfoInputs.cache
+E:\Pelatihan\HariKe-17\XamarinIntro\XamarinIntro\XamarinIntro\obj\Debug\netstandard2.0\XamarinIntro.AssemblyInfo.cs
+E:\Pelatihan\HariKe-17\XamarinIntro\XamarinIntro\XamarinIntro\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Pelatihan\HariKe-17\XamarinIntro\XamarinIntro\XamarinIntro\obj\Debug\netstandard2.0\XamarinIntro.dll
+E:\Pelatihan\HariKe-17\XamarinIntro\XamarinIntro\XamarinIntro\obj\Debug\netstandard2.0\XamarinIntro.pdb
